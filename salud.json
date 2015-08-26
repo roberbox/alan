@@ -1,0 +1,35 @@
+{
+  "salud": [
+    {
+      "url": "/img/iphone6.jpeg",
+      "id": "9102019283",
+      "name": " Aspirina",
+        "price": " $50.00  Mx"
+    },
+    {
+      "url": "img/iphone6.jpeg",
+      "id": "9102019283",
+      "name": " Aspirina",
+      "price": " $50.00  Mx"
+    },
+    {
+      "url": "img/iphone6.jpeg",
+      "id": "9102019283",
+      "name": " Aspirina",
+      "price": " $50.00  Mx"
+    },
+    {
+      "url": "img/iphone6.jpeg",
+      "id": "9102019283",
+      "name": " Aspirina",
+      "price": " $50.00  Mx"
+    },
+
+    {
+      "url": "img/iphone6.jpeg",
+      "id": "9102019283",
+      "name": " Aspirina",
+      "price": " $50.00  Mx"
+    }
+  ]
+}

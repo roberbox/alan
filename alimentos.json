@@ -1,0 +1,35 @@
+{
+  "alimentos": [
+    {
+      "url": "/img/iphone6.jpeg",
+      "id": "9102019283",
+      "name": " papas fritas",
+      "price": "$30  Mx"
+    },
+    {
+      "url": "img/iphone6.jpeg",
+      "id": "9102019283",
+      "name": " papas fritas",
+      "price": "$30  Mx"
+    },
+    {
+      "url": "img/iphone6.jpeg",
+      "id": "9102019283",
+      "name": " papas fritas",
+      "price": "$30  Mx"
+    },
+    {
+      "url": "img/iphone6.jpeg",
+      "id": "9102019283",
+      "name": " papas fritas",
+      "price": "$30  Mx"
+    },
+
+    {
+      "url": "img/iphone6.jpeg",
+      "id": "9102019283",
+      "name": " papas fritas",
+      "price": "$30  Mx"
+    }
+  ]
+}

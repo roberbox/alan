@@ -1,0 +1,35 @@
+{
+  "electronica": [
+    {
+      "url": "/img/iphone6.jpeg",
+      "id": "9102019210",
+      "name": " Iphone 6",
+        "price": " $16,000  Mx"
+    },
+    {
+      "url": "img/galaxy.jpg",
+      "id": "9102019248",
+      "name": " Galaxy s6",
+      "price": "$14,000  Mx"
+    },
+    {
+      "url": "img/xbox.jpg",
+      "id": "9102019283",
+      "name": " Xbox One",
+      "price": "$6,500  Mx"
+    },
+    {
+      "url": "img/ps4.jpg",
+      "id": "9102019295",
+      "name": " Play 4",
+      "price": "$7,500  Mx"
+    },
+
+    {
+      "url": "img/tv.jpg",
+      "id": "9102019217",
+      "name": " Sony KDL-40",
+      "price": "$10,000  Mx"
+    }
+  ]
+}

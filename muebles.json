@@ -1,0 +1,40 @@
+{
+  "mueble": [
+    {
+      "url": "/img/iphone6.jpeg",
+      "id": "9102019283",
+
+      "name": " Escritorio",
+      "price": " $4,000  Mx"
+    },
+    {
+      "url": "img/iphone6.jpeg",
+      "id": "9102019283",
+
+      "name": " Escritorio",
+      "price": " $4,000  Mx"
+    },
+    {
+      "url": "img/iphone6.jpeg",
+      "id": "9102019283",
+
+      "name": " Escritorio",
+      "price": " $4,000  Mx"
+    },
+    {
+      "url": "img/iphone6.jpeg",
+      "id": "9102019283",
+
+      "name": " Escritorio",
+      "price": " $4,000  Mx"
+    },
+
+    {
+      "url": "img/iphone6.jpeg",
+      "id": "9102019283",
+
+      "name": " Escritorio",
+      "price": " $4,000  Mx"
+    }
+  ]
+}
